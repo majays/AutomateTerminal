@@ -7,7 +7,8 @@ Getting started
     pip install gTTS
     pip install playsound
 
-2) hshshs
+2) New Feature added
+
 
 
 
