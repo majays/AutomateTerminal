@@ -1,6 +1,6 @@
 import speech_recognition as sr
 import terminalfun as pr3
-import deep as sng
+import PlaySong as sng
 from playsound import playsound
 import speak as sp
 import searching_location_web as fe
