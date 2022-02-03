@@ -41,17 +41,17 @@ pip install webbrowser
 20) 'show directory', --> this is a "ls " commands
 
 ```
-# 2) Play Music
+## 2) Play Music
 ```bash
 Alex = 'speak the song that you like most...'
 User = '...'
 ```
-# 3) Web Searching
+## 3) Web Searching
 ```bash
 Alex = 'what do you want to search for...'
 User = '...'
 ```
-# 4) find location
+## 4) find location
 ```bash
 Alex = 'Which location do you want to search...'
 User = '...'
